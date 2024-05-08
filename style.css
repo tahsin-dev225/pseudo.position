@@ -1,0 +1,59 @@
+/* h3{
+    color:peru;
+}
+h3:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(66, 172, 233);
+   
+}
+input:focus{
+    color:brown;
+    outline: 0;
+    border: 3px solid brown;
+}
+a:visited{
+    color:gray;
+}
+li:last-child{
+    color:blueviolet;
+}
+li:nth-child(2n){
+    background-color:aquamarine;
+} */
+
+
+/* position */
+.box{
+    border:2px dotted plum;
+    width:300px;
+    height:200px;
+}
+.ring{
+    position: relative;
+    top:30px;
+}
+.boy{
+    position: absolute;
+    left:300px;
+}
+.dummy{
+    height:200px;
+    width:200px;
+    border:3px solid orange;
+}
+.newb{
+    background-color: teal;
+    position:sticky;
+    top:40px;
+}
+.main{
+    
+}
+
+.fixed{
+    height:20px;
+    width: 20px;
+    background-color:brown;
+    position:fixed;
+    right:500px;
+}
